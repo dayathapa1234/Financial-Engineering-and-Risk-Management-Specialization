@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Junior DevOps Engineeer position. With a background in Java Software Development, I am confident in my ability to learn and contribute to your team. I am really drawn to the field of biotechnology due to the intersection where engineering principles, biology and programming techniques can be leveraged to solve complex biological problems and push the boundaries of scientific innovation. 
+
+I am a Java Software Developer Consultant with 18 months of experience in the Finance industry. I graduated from Swansea University with a degree in Electrical and Electronic Engineering, which provided me with a solid foundation in technical principles, problem-solving, and analytical thinking. My time spent working at HSBC as a Software Developer Consultant furthered my understanding of databases, automation testing, and software development.
+
+I developed an interest in front end development as a result of my training at FDM, where I learnt HTML, CSS, SQL, Python, and Java. Additionally, I make an effort to take courses on front end and full stack development during my leisure time. 
+
+During my time at HSBC, I was trained in the DevOps practices such as CI/CD using Jenkins, Version Control using GitHub and Monitoring Tool such as AppDynamics. I also had exposer some to GCP, Docker and Kubernetic. I was mostly involved in automation testing projects where I developed and executed test scripts using VBScript, and other testing tools. I collaborated closely with cross-functional teams to identify and resolve issues, ensuring the quality and reliability of the web applications. 
+
+I am excited about the opportunity to learn and grow toward becoming a Junior Software Engineer. I am confident that my technical proficiency, problem-solving abilities, and commitment to personal development align perfectly with the requirements of the role. I am eager to contribute to your team's success and be part of an innovative and dynamic work environment. 
+
+Thank you for considering my application. I have attached my resume for your review, which provides more details about my experience and qualifications. I would welcome the opportunity to discuss further how my skills and experiences align with your needs. I look forward to the possibility of joining your team and contributing to your continued success. 
+
+Sincerely, 
+
+Daya Thapa
